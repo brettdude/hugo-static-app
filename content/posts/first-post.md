@@ -13,7 +13,6 @@ This year, I am giving [Hugo](https://gohugo.io) a run via an Azure StaticApp.
 It does mean I finally need to learn how to write properly in markdown.
 
 The workflow is pretty straight forward though.
-<!--more-->
 
 1. Update the post and commit the changes
 2. Push the commit to my Github repo

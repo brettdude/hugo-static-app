@@ -2,6 +2,14 @@ baseURL = "http://dev.crazy.id.au/"
 languageCode = "en-us"
 title = "Craziness v4.0"
 theme = "hugo-theme-chunky-poster"
+[params]
+  homepageImage = "/images/jeep-beach.jpg"
+
+[[menu.main]]
+  name = "Posts"
+  weight = -1000
+  identifier = "posts"
+  url = "/posts/"
 
 [[menu.main]]
   name = "Gallery"
