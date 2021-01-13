@@ -2,6 +2,7 @@
 title: "First Post"
 date: 2021-01-13T01:07:30+11:00
 draft: false
+images: ["/images/2021.jpg"]
 ---
 Welcome to 2021
 ===============
