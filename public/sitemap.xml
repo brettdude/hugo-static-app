@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.crazy.id.au/</loc>
+    <lastmod>2021-01-13T01:07:30+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.crazy.id.au/posts/first-post/</loc>
+    <lastmod>2021-01-13T01:07:30+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.crazy.id.au/posts/</loc>
+    <lastmod>2021-01-13T01:07:30+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.crazy.id.au/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.crazy.id.au/tags/</loc>
+  </url>
+  
+</urlset>
