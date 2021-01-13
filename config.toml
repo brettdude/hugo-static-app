@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://www.crazy.id.au/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Craziness v4.0"
 theme = "ananke"
