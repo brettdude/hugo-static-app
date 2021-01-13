@@ -1,4 +1,4 @@
-baseURL = "http://www.crazy.id.au/"
+baseURL = "http://dev.crazy.id.au/"
 languageCode = "en-us"
 title = "Craziness v4.0"
 theme = "hugo-theme-chunky-poster"
