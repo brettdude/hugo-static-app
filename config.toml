@@ -2,3 +2,15 @@ baseURL = "http://dev.crazy.id.au/"
 languageCode = "en-us"
 title = "Craziness v4.0"
 theme = "hugo-theme-chunky-poster"
+
+[[menu.main]]
+  name = "Gallery"
+  weight = -90
+  identifier = "gallery"
+  url = "https://clarkey.smugmug.com"
+
+[[menu.main]]
+  name = "Fireside Graphics"
+  weight = -100
+  identifier = "firesidegfx"
+  url = "https://www.firesidegraphics.com.au"
