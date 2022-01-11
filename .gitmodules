@@ -4,3 +4,6 @@
 [submodule "themes/hugo-theme-chunky-poster"]
 	path = themes/hugo-theme-chunky-poster
 	url = https://github.com/puresyntax71/hugo-theme-chunky-poster.git
+[submodule "themes/hugo-me-theme"]
+	path = themes/hugo-me-theme
+	url = https://github.com/christianmendoza/hugo-me-theme
