@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "https://example.org/"
+baseURL = "https://www.crazy.id.au/"
 languageCode = "en-US"
-title = "Me - HTML Template Demo"
+title = "Craziness v4.0"
 theme = "hugo-me-theme"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 
@@ -11,23 +11,23 @@ googleAnalytics = ""
 [params]
 
   # Metadata
-  name = "Your Name"
-  description = "Me is a slick, personal layout for any individual wanting a minimal online presence. Features include a big background image or video, logo, bio and icons."
+  name = "Brett Clarke"
+  description = "A travel blog, mixed with some of the tech and gadgets that excite me"
   shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+  twitterHandle = "bigkid73"
 
   # Favicon
   favicon = "favicon.ico"
 
   # Copyright
-  copyright = "&copy;2017 Your Name"
+  copyright = "&copy;2022 Brett Clarke"
 
   # Logo
   logo = "images/logo.png"
   logoAlt = "Logo"
 
   # Content
-  bio = "This is me. I push pixels at [Google](//google.com), write words on [Medium](//medium.com) and spill thoughts on [Twitter](//twitter.com)."
+  bio = "I'm a Geeky Adventurer. I spend my working hours being an IT Nerd at [Deloitte](//deloitte.com.au), and my spare time is spent travelling in my [Jeep](//jeep.com.au) or tinkering in my shed."
 
   # Background
   [params.background]
